@@ -1,2 +1,3 @@
-# roadmap
-Roadmap and Strategy
+# Roadmap and Strategy
+
+This repo only contains issues.
